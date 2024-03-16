@@ -29,3 +29,6 @@ Untuk monitoring Kecerahan Lampu dan Tone Buzzer adapun rangkaian yang di pakai 
 
 ## Our Schematic
 ![our schematik_posttest2_iot](https://github.com/Juni1106/posttest2-praktikum-iot-unmul-2024/assets/115080583/96ed89a9-a69d-4484-b580-ea24bbcb9de4)
+
+## Link Video
+https://youtu.be/W9LqsNnCrIU?si=ddwBYdISAXPKXHYQ
