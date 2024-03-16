@@ -11,8 +11,8 @@
 Untuk monitoring Kecerahan Lampu dan Tone Buzzer adapun rangkaian yang di pakai terdiri dari 3 Button, 1 Buah Buzzer, 1 Lampu/LED, 1 resistor, NodeMCU, dan 9 kabel jumper. Pada monitoring ini memungkinkan pengguna untuk menambah atau mengurangi kecerahan lampu dengan kelipadan 3 dan menambah atau mengurangi tone / nada buzzer dengan kelipatan 10. Terdapat tombol-tombol di setiap board untuk mengontrol penambahan atau pengurangan nilai komponen, serta untuk mengaktifkan atau menonaktifkan komponen. Selain itu, sistem ini memanfaatkan sebuah web server untuk memonitor nilai-nilai komponen.
 
 ## Pembagian Tugas
-1. Juniver Veronika Lili : Membuat rangkaian Lampu, Button, NodeMCU dan Buzzer.
-2. Muhammad Alpi Ashari : Membuat Kodingan dan mengatur konfigurasi Webserver.
+1. Muhammad Alpi Ashari : Membuat rangkaian Lampu, Button, NodeMCU dan Buzzer.
+2. Juniver Veronika Lili: Membuat Kodingan dan mengatur konfigurasi Webserver.
 
 ## Komponen Yang digunakan:
 1. Kabel jumper
