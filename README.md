@@ -25,7 +25,7 @@ Untuk monitoring Kecerahan Lampu dan Tone Buzzer adapun rangkaian yang di pakai 
 8. Kabel USB
 
 ## Design Schematic
-![Schematic-posttest2-iOT_bb](https://github.com/Juni1106/posttest2-praktikum-iot-unmul-2024/assets/115080583/58c72a8a-b66d-45ea-b892-9b95a4689e9d)
+![Schematic-posttest2-iOT_bb](https://github.com/Juni1106/posttest2-praktikum-iot-unmul-2024/assets/115080583/f8f10bd4-4a46-4a34-966c-13c0fece4027)
 
 ## Our Schematic
 ![our schematik_posttest2_iot](https://github.com/Juni1106/posttest2-praktikum-iot-unmul-2024/assets/115080583/96ed89a9-a69d-4484-b580-ea24bbcb9de4)
